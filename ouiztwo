@@ -1,0 +1,9 @@
+Age_Member1=20
+Age_Member20
+Age_Member3=20
+
+Age_add=Age_Member2 + Age_Member2 + Age_Member3
+print(Age_Add)
+
+Age_add=Age_Member2 + Age_Member2 + Age_Member3
+print(Age_sub)
